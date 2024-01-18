@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="greetingText">Привет, %s</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restore">Restore</string>
+</resources>
