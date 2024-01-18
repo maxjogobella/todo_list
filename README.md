@@ -1,4 +1,4 @@
-![2](https://github.com/maxnotmaximchik/todo_list/assets/106059025/3f635581-4eaa-4da2-8e06-0a965683c49d)
+![3](https://github.com/maxnotmaximchik/todo_list/assets/106059025/9f4a7068-3e1f-4bbb-8c39-d8ad61b64fc8)
 # Description
 This feature helps you organize your thoughts and tasks in a simple and convenient way.
 
