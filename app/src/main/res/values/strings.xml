@@ -1,7 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="greetingText">Привет, %s</string>
-    <string name="start">Start</string>
-    <string name="stop">Stop</string>
-    <string name="restore">Restore</string>
+    <string name="description">To add a new note, tap on the plus icon and start typing. You can also edit or delete your notes at any time. This feature helps you organize your thoughts and tasks in a simple and convenient way</string>
+    <string name="description_p">The color indicates the priority of your note, from low to high. </string>
+    <string name="compose_new_note">Compose new note</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="choose_the_priority">Choose the priority</string>
+    <string name="wite_here">wite here :</string>
+    <string name="arrow"><![CDATA[->]]></string>
+    <string name="ok">Ok</string>
+    <string name="write_title">Title</string>
+    <string name="write_note">Note</string>
 </resources>
