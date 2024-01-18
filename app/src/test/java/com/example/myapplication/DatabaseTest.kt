@@ -23,7 +23,7 @@ class DatabaseTest {
 
         val application = mockk<Application>()
 
-        val viewModel = NoteViewModel(application, noteDao)
+        val viewModel = NoteViewModel(application)
 
         val note = Note(priority = 1, title = "Test note", text = "This is a test note")
 
