@@ -1,5 +1,6 @@
-![3](https://github.com/maxnotmaximchik/todo_list/assets/106059025/9f4a7068-3e1f-4bbb-8c39-d8ad61b64fc8)
-# Description
+
+![logo](https://github.com/maxnotmaximchik/todo_list/assets/106059025/37d6a90d-113f-4be1-a7a7-c9e1c88fc080)
+## Description
 This feature helps you organize your thoughts and tasks in a simple and convenient way.
 
 ## Stack
