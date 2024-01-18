@@ -5,8 +5,8 @@ This feature helps you organize your thoughts and tasks in a simple and convenie
 Kotlin/MVVM/Room/MocKK
 
 ## First
-https://github.com/maxnotmaximchik/todo_list/assets/106059025/00f7e39b-90ee-49ab-949a-e6e63199fb89
+https://github.com/maxnotmaximchik/todo_list/assets/106059025/477463dc-755d-467f-9a03-bd0727c19851
 
 ## Second
-https://github.com/maxnotmaximchik/todo_list/assets/106059025/6f2d9ae8-a12b-4eca-a5ee-cd1400b50122
+https://github.com/maxnotmaximchik/todo_list/assets/106059025/088d58cf-c08f-4234-bd2a-a98bedb7dc1a
 
