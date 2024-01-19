@@ -2,6 +2,7 @@
 ![logo](https://github.com/maxnotmaximchik/todo_list/assets/106059025/37d6a90d-113f-4be1-a7a7-c9e1c88fc080)
 ## Description
 This feature helps you organize your thoughts and tasks in a simple and convenient way.
+A simple application. I didn't pay attention to the UI. Here the notes are sorted by priority (red on top). All fields and checkboxes are valid. If an error occurs with the database or something, the user is notified with Toast (using the ViewModel). Unit tests of the database have been done (will be updated). Swipe without animation.
 
 ## Stack
 Kotlin/MVVM/Room/MocKK
